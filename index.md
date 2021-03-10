@@ -87,6 +87,5 @@ Does that mean mutable class attributes should never be used? IMHO there could b
 tracking all os images ever created on minion instances to monitor duplicates or just for bookkeeping purposes.  
 
 * * *
-[Markup reference](./another-page.html)
 
 
